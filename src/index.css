@@ -1,0 +1,19 @@
+/* div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  width: 20%;
+} */
+
+div {
+  text-align: center;
+  justify-content: center;
+}
+
+.app {
+  display: flex;
+  gap: 10px;
+}
